@@ -300,11 +300,7 @@ class AppStore extends Component {
     return (
       <div className="app-container">
         <div className="app-store">
-          <img
-            src="https://res.cloudinary.com/sghome/image/upload/v1662580390/IMG20211124143310_qju6qg.jpg"
-            alt="logo"
-            className="profile-img"
-          />
+          
           <h1 className="heading">My Projects</h1>
           <p className="para">
             Refer to the below images. The following images illustrate all
