@@ -303,7 +303,7 @@ class AppStore extends Component {
           
           <h1 className="heading">My Projects</h1>
           <p className="para">
-            Refer to the below images. The following images illustrate all
+          The following images illustrate all
             device sizes, from extra small to extra large. Extra small (Size
             576px) and Small (Size 576px):Start to Responsive
           </p>
